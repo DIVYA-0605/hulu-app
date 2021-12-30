@@ -54,7 +54,7 @@ function LoginScreen() {
         )}
       </header>
 
-      <section className="bg-black">
+      <section className="bg-black pb-16">
         {!Signin && (
           <>
             <div className={styles.tv_section}>
